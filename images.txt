@@ -1,6 +1,2 @@
-jenkins/jenkins:2.439
-phpmyadmin:5.2.1
-registry:latest
-openjdk:17-slim
-redis:6.2
-nginx:latest
+elasticsearch:7.17.14
+kibana:7.17.14
