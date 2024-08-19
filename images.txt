@@ -1,1 +1,2 @@
-openjdk:11.0.14.1-jdk-buster
+phpmyadmin:5.2.1
+spryker/redis-commander:0.8.0
