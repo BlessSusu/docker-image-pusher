@@ -1,1 +1,1 @@
-emqx/nanomq:0.22.7-full
+node:18-alpine
