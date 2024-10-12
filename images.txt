@@ -1,1 +1,1 @@
-node:18-alpine
+emqx/emqx:5.6.1-arm64
