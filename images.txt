@@ -1,2 +1,2 @@
 canal-server:v1.1.7
-canal-adapter:v1.1.6
+
