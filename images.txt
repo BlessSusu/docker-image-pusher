@@ -1,1 +1,1 @@
-coopersoft/canal-adapter:v1.1.6
+ed1994/tencentkona:11-jdk
