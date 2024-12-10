@@ -1,1 +1,1 @@
-enmotech/opengauss:latest
+lhrbest/lhrdm8:20220709
