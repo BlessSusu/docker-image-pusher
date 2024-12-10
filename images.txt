@@ -1,1 +1,1 @@
-ed1994/tencentkona:11-jdk
+enmotech/opengauss:latest
