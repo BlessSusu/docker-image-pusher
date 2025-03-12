@@ -1,1 +1,1 @@
-lhrbest/lhrdm8:20220709
+apacherocketmq/rocketmq-dashboard:latest
