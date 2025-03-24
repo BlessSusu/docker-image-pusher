@@ -1,1 +1,1 @@
-apacherocketmq/rocketmq-dashboard:latest
+pgvector/pgvector:v0.5.0
