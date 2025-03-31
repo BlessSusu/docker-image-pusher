@@ -1,1 +1,1 @@
-mitre/nightingale:latest
+zabbix/zabbix-agent:laster
